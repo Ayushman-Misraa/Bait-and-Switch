@@ -1,7 +1,7 @@
 
 # ***ABOUT***
 
-Dark Pattern Identifier is a chrome extension that analyze WebPage DOM to detect deceptive designs (Dark Pattern). Specifically this extension can detect Bait and Switch.
+Bait And Switch is a chrome extension that analyze WebPage DOM to detect deceptive designs (Dark Pattern). Specifically this extension can detect Bait and Switch.
 
 
 
